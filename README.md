@@ -1,16 +1,21 @@
-# my_bs
+เป็นแอพเกี่ยวกับการซื้ออาหารโดยการจองคิวผ่านระบบวอลเล็ตแทนการไปซื้อหน้าร้าน
 
-A new Flutter project.
+![1](https://user-images.githubusercontent.com/93056207/212555004-0f7a2586-1c90-4569-9673-d2975ca2cb15.png)
 
-## Getting Started
+นักเรียน
 
-This project is a starting point for a Flutter application.
+![2](https://user-images.githubusercontent.com/93056207/212555029-bec227e5-5116-4af4-b5c6-cacaeb71ae24.png)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://user-images.githubusercontent.com/93056207/212555033-0c0ac170-d0e4-425d-9d36-a00e525a0344.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ร้านค้า
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[4](https://user-images.githubusercontent.com/93056207/212555058-7a799e94-0775-44c0-ba19-14fc511ddee3.png)
+
+![5](https://user-images.githubusercontent.com/93056207/212555072-3e1463dc-9897-4f13-bfc8-37189d5b0475.png)
+
+![6](https://user-images.githubusercontent.com/93056207/212555083-5cbcb383-fd36-4a24-aeee-2c44ac76f680.png)
+
+ครู
+
+![7](https://user-images.githubusercontent.com/93056207/212555118-f79ee05a-e878-45bf-a6f1-82c502641b30.png)
